@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nurlan-Bakenbaev
-- 🚀 Frontend developer | HTML | CSS | JavaScript | React.js | Next.js | TypeScript| Material UI | Tailwind CSS
--  I’m interested in front-end web development, user interface design, and exploring new technologies to create engaging and user-friendly web applications.
--  I’m currently learning advanced React.js and back-end technologies to enhance my skills as a developer.
+- 🚀 Full-Stack developer | MONGO-DB | EXPRESS | REACT JS | NODE JS |
+-  JavaScript| TypeScript| NEXT JS | Material UI | Tailwind CSS | REDUX toolkit
+-  I’m interested in web development, user interface design, and exploring new technologies to create engaging and user-friendly web applications.
+-  I’m currently learning advanced NODE.js and back-end technologies to enhance my skills as a developer.
 - 💞️ I’m looking to collaborate on open-source projects related to React.js or any interesting web development initiatives. I'm also open to collaborating on projects that involve creating intuitive user interfaces...
 
 
