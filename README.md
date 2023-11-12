@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nurlan-Bakenbaev
-- 🚀 Full-Stack developer | MONGO-DB | EXPRESS | REACT JS | NODE JS |
+- 🚀 A Full-Stack developer | MONGO-DB | EXPRESS | REACT JS | NODE JS |
 -  JavaScript| TypeScript| NEXT JS | Material UI | Tailwind CSS | REDUX toolkit
 -  I’m interested in web development, user interface design, and exploring new technologies to create engaging and user-friendly web applications.
 -  I’m currently learning advanced NODE.js and back-end technologies to enhance my skills as a developer.
