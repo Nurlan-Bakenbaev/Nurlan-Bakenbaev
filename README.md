@@ -2,8 +2,62 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
- 💫 About Me:
-<br>🌟 Hallo there! I'm Full-Stack developer<br><br>As a passionate JavaScript developer with a love for both the art of front-end and the science of back-end, I bring ideas to life through **React.js** and **Node.js**. My journey in tech is fueled by curiosity, creativity, and a relentless desire to build applications that are as delightful to use as they are powerful.<br><br>🎨 Front-End<br>With React.js as my brush, I craft dynamic, intuitive, and responsive user interfaces. My front-end toolkit includes:<br>- Component-Driven Development with React.js<br>- State Management Mastery using Redux and Context API<br>- Design Excellence with Material-UI, Bootstrap, and custom CSS/SASS<br>- Accessibility Advocate** ensuring inclusivity for all users<br><br>🔧 Back-End<br>On the server-side, I conjure robust and scalable back-end solutions using Node.js. My back-end expertise covers:<br>- API Sorcery with Express.js and RESTful architecture<br>- Data Whispering** with MongoDB, MySQL, and PostgreSQL<br>- Security First approach with JWT, OAuth, and other authentication protocols<br>- Real-Time Magic with WebSockets and Socket.io<br><br>🌱 Forever a Student<br>I’m constantly evolving, exploring new territories in the ever-expanding JavaScript universe. Currently, I’m delving into:<br>- Next.js for its seamless server-side rendering and static site generation<br>- TypeScript to bring type safety and clarity to my code<br>-Java - Developing a Robust and Secure Backend Logic<br>
+💫 About Me:
+<br>🌟 Hallo there! I'm a Full-Stack Developer & Junior IT System Integrator
+<br><br>
+As a passionate JavaScript developer with a strong interest in IT infrastructure and networking, I enjoy working at the intersection of software development and system integration. I bring ideas to life through React.js and Node.js, while also diving deep into servers, networks, and operating systems.
+<br><br>
+My journey in tech is fueled by curiosity, hands-on practice, and a desire to understand how systems work end-to-end — from user interfaces down to network packets.
+
+<br><br>
+🎨 Front-End
+With React.js as my brush, I craft dynamic, intuitive, and responsive user interfaces. My front-end toolkit includes:
+
+Component-Driven Development with React.js
+
+State Management using Redux and Context API
+
+UI/UX with Material-UI, Bootstrap, and custom CSS / SASS
+
+Accessibility-focused development to ensure inclusive user experiences
+
+<br><br>
+🔧 Back-End
+On the server-side, I build robust and scalable solutions using Node.js. My back-end expertise covers:
+
+RESTful APIs with Express.js
+
+Databases: MongoDB, MySQL, PostgreSQL
+
+Authentication & Security: JWT, OAuth, role-based access
+
+Real-time communication with WebSockets and Socket.io
+
+<br><br>
+🖥️ Systems, Servers & Networking
+Beyond development, I actively work with and explore IT infrastructure:
+
+Linux & Windows Server administration
+
+User, permission, and service management
+
+Virtualization (VMs, basic infrastructure concepts)
+
+Networking fundamentals: TCP/IP, DNS, DHCP, VLANs, routing & switching
+
+Building and troubleshooting networks with a CCNA-oriented mindset
+
+<br><br>
+🌱 Forever a Student
+I’m constantly evolving and expanding my skill set. Currently, I’m focusing on:
+
+Next.js for SSR and modern web architectures
+
+TypeScript for type-safe and maintainable code
+
+Java for building robust and secure backend logic
+
+Deepening my knowledge in networking and system integration (CCNA level)
 
 <div align="center">
 	<table>
