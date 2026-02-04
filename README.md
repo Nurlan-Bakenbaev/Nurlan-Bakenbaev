@@ -1,4 +1,4 @@
-# 🌐 Junior IT System Integrator  
+# 🌐 IT System Integrator  
 ### Networks • Servers • Infrastructure
 
 > **Infrastructure-first mindset**  
