@@ -3,62 +3,67 @@
 
 
 💫 About Me:
-<br>🌟 Hallo there! I'm a Full-Stack Developer & Junior IT System Integrator
+<br>🌐 Hallo there! I'm a Junior IT System Integrator with a strong focus on Networks & Servers
 <br><br>
-As a passionate JavaScript developer with a strong interest in IT infrastructure and networking, I enjoy working at the intersection of software development and system integration. I bring ideas to life through React.js and Node.js, while also diving deep into servers, networks, and operating systems.
-<br><br>
-My journey in tech is fueled by curiosity, hands-on practice, and a desire to understand how systems work end-to-end — from user interfaces down to network packets.
+My core interest and primary skill set are centered around IT infrastructure — designing, building, and maintaining reliable networks and server environments. I enjoy working close to the system level, understanding how services communicate, how networks are structured, and how infrastructure can be made stable, secure, and scalable.
 
 <br><br>
-🎨 Front-End
-With React.js as my brush, I craft dynamic, intuitive, and responsive user interfaces. My front-end toolkit includes:
-
-Component-Driven Development with React.js
-
-State Management using Redux and Context API
-
-UI/UX with Material-UI, Bootstrap, and custom CSS / SASS
-
-Accessibility-focused development to ensure inclusive user experiences
-
-<br><br>
-🔧 Back-End
-On the server-side, I build robust and scalable solutions using Node.js. My back-end expertise covers:
-
-RESTful APIs with Express.js
-
-Databases: MongoDB, MySQL, PostgreSQL
-
-Authentication & Security: JWT, OAuth, role-based access
-
-Real-time communication with WebSockets and Socket.io
-
-<br><br>
-🖥️ Systems, Servers & Networking
-Beyond development, I actively work with and explore IT infrastructure:
+🖥️ Servers & Systems (Main Focus)
 
 Linux & Windows Server administration
 
-User, permission, and service management
+User, group, and permission management
 
-Virtualization (VMs, basic infrastructure concepts)
+Service configuration and troubleshooting
 
-Networking fundamentals: TCP/IP, DNS, DHCP, VLANs, routing & switching
+Virtualization and basic infrastructure concepts
 
-Building and troubleshooting networks with a CCNA-oriented mindset
+Monitoring, backups, and system reliability
 
 <br><br>
-🌱 Forever a Student
-I’m constantly evolving and expanding my skill set. Currently, I’m focusing on:
+🌐 Networking (Core Profile)
 
-Next.js for SSR and modern web architectures
+Strong fundamentals in TCP/IP, OSI model, DNS, DHCP
 
-TypeScript for type-safe and maintainable code
+Switching & routing basics (VLANs, subnetting, static & dynamic routing)
 
-Java for building robust and secure backend logic
+Network troubleshooting and analysis
 
-Deepening my knowledge in networking and system integration (CCNA level)
+CCNA-oriented knowledge and practice
 
+Understanding of enterprise network structures
+
+<br><br>
+🔧 Automation & Scripting
+To support and automate infrastructure tasks, I use programming as a tool, not as the main goal:
+
+JavaScript (Node.js) for scripting and automation
+
+Working with APIs and system-related tooling
+
+Git for version control and configuration tracking
+
+<br><br>
+🧠 Mindset
+
+Infrastructure-first thinking
+
+Hands-on problem solving
+
+Learning by building, breaking, and fixing systems
+
+Continuous improvement in networking and system integration
+
+<br><br>
+🌱 Currently Learning & Improving
+
+Advanced networking concepts (CCNA level)
+
+Deeper Linux server internals
+
+Infrastructure automation and scripting
+
+Secure and stable system design
 <div align="center">
 	<table>
 		<tr>
