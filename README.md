@@ -24,17 +24,6 @@ understanding how services communicate, how networks are structured, and how inf
 
 ---
 
-## 🔧 Automation & Scripting
-
-> Programming is used as a **tool to support infrastructure**, not as the primary goal.
-
-- JavaScript (Node.js) for automation & tooling  
-- API interaction and service integration  
-- Git for version control and configuration tracking  
-- Scripting to simplify repetitive system tasks  
-
----
-
 ## 🧠 Mindset
 
 - Infrastructure-first thinking  
@@ -53,15 +42,6 @@ understanding how services communicate, how networks are structured, and how inf
 
 ---
 
-## 🎯 Profile Summary
-
-- **Core profile:** Networks & Servers  
-- **Role:** Junior IT System Integrator  
-- **Development:** Supportive skill (automation & tooling)  
-- **Goal:** System / Network Engineer  
-
----
-
 ## 💻 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -75,13 +55,5 @@ understanding how services communicate, how networks are structured, and how inf
 
 ---
 
-### ✅ Why this README stands out
 
-- Clear **infrastructure and networking focus**  
-- Well-structured for recruiters and hiring managers  
-- Balanced visual layout with table & badges  
-- Suitable for:  
-  - Ausbildung  
-  - Junior System / Network Admin  
-  - Future DevOps / Network Engineer  
 
