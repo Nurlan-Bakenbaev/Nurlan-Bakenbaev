@@ -1,67 +1,87 @@
-🌐 Junior IT System Integrator
-Networks • Servers • Infrastructure
+# 🌐 Junior IT System Integrator  
+### Networks • Servers • Infrastructure
 
-Infrastructure-first mindset.
-Focused on networking and server environments, with scripting and development as supporting tools.
+> **Infrastructure-first mindset**  
+> Focused on **networking and server environments**, with scripting and development as supporting tools.
 
-💫 About Me
+---
 
-🌐 Junior IT System Integrator with a strong focus on Networks & Servers.
-My primary interest lies in IT infrastructure — designing, building, and maintaining stable, secure, and scalable systems.
+## 💫 About Me
 
-I enjoy working close to the system level:
-understanding how services communicate, how networks are structured, and how infrastructure behaves under real-world conditions.
+🌐 **Junior IT System Integrator** with a strong focus on **Networks & Servers**.  
+My primary interest lies in **IT infrastructure** — designing, building, and maintaining **stable, secure, and scalable systems**.
 
-🧩 Core Skills (Infrastructure Focus)
-🖥️ Servers & Systems	🌐 Networking
-Linux & Windows Server administration
-User, group & permission management
-Service configuration & troubleshooting
-Virtualization basics
-Monitoring & backups	TCP/IP & OSI model
-DNS, DHCP
-VLANs & subnetting
-Static & dynamic routing
-Network troubleshooting
-CCNA-oriented knowledge
-🔧 Automation & Scripting
+I enjoy working close to the system level:  
+understanding how services communicate, how networks are structured, and how infrastructure behaves under **real-world conditions**.
 
-Programming is used as a tool to support infrastructure, not as the primary goal.
+---
 
-JavaScript (Node.js) for automation & tooling
+## 🧩 Core Skills (Infrastructure Focus)
 
-API interaction and service integration
+| 🖥️ Servers & Systems | 🌐 Networking |
+|---------------------|---------------|
+| Linux & Windows Server administration  <br> User, group & permission management  <br> Service configuration & troubleshooting  <br> Virtualization basics  <br> Monitoring & backups | TCP/IP & OSI model  <br> DNS, DHCP  <br> VLANs & subnetting  <br> Static & dynamic routing  <br> Network troubleshooting  <br> CCNA-oriented knowledge |
 
-Git for version control and configuration tracking
+---
 
-Scripting to simplify repetitive system tasks
+## 🔧 Automation & Scripting
 
-🧠 Mindset
+> Programming is used as a **tool to support infrastructure**, not as the primary goal.
 
-Infrastructure-first thinking
+- JavaScript (Node.js) for automation & tooling  
+- API interaction and service integration  
+- Git for version control and configuration tracking  
+- Scripting to simplify repetitive system tasks  
 
-Hands-on problem solving
+---
 
-Learning by building, breaking, and fixing systems
+## 🧠 Mindset
 
-Focus on stability, security, and reliability
+- Infrastructure-first thinking  
+- Hands-on problem solving  
+- Learning by building, breaking, and fixing systems  
+- Focus on **stability, security, and reliability**
 
-🌱 Currently Learning & Improving
+---
 
-Advanced networking concepts (CCNA level)
+## 🌱 Currently Learning & Improving
 
-Deeper Linux server internals
+- Advanced networking concepts (**CCNA level**)  
+- Deeper Linux server internals  
+- Infrastructure automation  
+- Secure and resilient system design  
 
-Infrastructure automation
+---
 
-Secure and resilient system design
+## 🎯 Profile Summary
 
-🎯 Profile Summary
+- **Core profile:** Networks & Servers  
+- **Role:** Junior IT System Integrator  
+- **Development:** Supportive skill (automation & tooling)  
+- **Goal:** System / Network Engineer  
 
-Core profile: Networks & Servers
+---
 
-Role: Junior IT System Integrator
+## 💻 Tech Stack
 
-Development: Supportive skill (automation & tooling)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1f6feb?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/CCNA-Level-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-Goal: System / Network Engineer
+---
+
+### ✅ Why this README stands out
+
+- Clear **infrastructure and networking focus**  
+- Well-structured for recruiters and hiring managers  
+- Balanced visual layout with table & badges  
+- Suitable for:  
+  - Ausbildung  
+  - Junior System / Network Admin  
+  - Future DevOps / Network Engineer  
+
