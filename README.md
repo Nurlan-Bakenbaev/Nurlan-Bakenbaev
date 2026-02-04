@@ -1,186 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>IT System Integrator | Networks & Servers</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+🌐 Junior IT System Integrator
+Networks • Servers • Infrastructure
 
-  <style>
-    :root {
-      --bg: #0d1117;
-      --card: #161b22;
-      --accent: #58a6ff;
-      --text: #c9d1d9;
-      --muted: #8b949e;
-    }
+Infrastructure-first mindset.
+Focused on networking and server environments, with scripting and development as supporting tools.
 
-    * {
-      box-sizing: border-box;
-      font-family: "Segoe UI", system-ui, sans-serif;
-    }
+💫 About Me
 
-    body {
-      margin: 0;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-    }
+🌐 Junior IT System Integrator with a strong focus on Networks & Servers.
+My primary interest lies in IT infrastructure — designing, building, and maintaining stable, secure, and scalable systems.
 
-    header {
-      text-align: center;
-      padding: 4rem 1rem;
-    }
+I enjoy working close to the system level:
+understanding how services communicate, how networks are structured, and how infrastructure behaves under real-world conditions.
 
-    header h1 {
-      font-size: 2.2rem;
-      margin-bottom: .5rem;
-    }
+🧩 Core Skills (Infrastructure Focus)
+🖥️ Servers & Systems	🌐 Networking
+Linux & Windows Server administration
+User, group & permission management
+Service configuration & troubleshooting
+Virtualization basics
+Monitoring & backups	TCP/IP & OSI model
+DNS, DHCP
+VLANs & subnetting
+Static & dynamic routing
+Network troubleshooting
+CCNA-oriented knowledge
+🔧 Automation & Scripting
 
-    header p {
-      color: var(--muted);
-      max-width: 700px;
-      margin: auto;
-    }
+Programming is used as a tool to support infrastructure, not as the primary goal.
 
-    section {
-      max-width: 1100px;
-      margin: auto;
-      padding: 3rem 1rem;
-    }
+JavaScript (Node.js) for automation & tooling
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 2rem;
-    }
+API interaction and service integration
 
-    .card {
-      background: var(--card);
-      padding: 2rem;
-      border-radius: 14px;
-      transition: transform .3s ease, box-shadow .3s ease;
-    }
+Git for version control and configuration tracking
 
-    .card:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 10px 30px rgba(0,0,0,.4);
-    }
+Scripting to simplify repetitive system tasks
 
-    .card h3 {
-      color: var(--accent);
-      margin-top: 0;
-    }
+🧠 Mindset
 
-    ul {
-      padding-left: 1.2rem;
-    }
+Infrastructure-first thinking
 
-    li {
-      margin-bottom: .4rem;
-    }
+Hands-on problem solving
 
-    .stack {
-      display: flex;
-      flex-wrap: wrap;
-      gap: .6rem;
-      justify-content: center;
-    }
+Learning by building, breaking, and fixing systems
 
-    .badge {
-      background: #21262d;
-      border: 1px solid #30363d;
-      padding: .4rem .7rem;
-      border-radius: 8px;
-      font-size: .85rem;
-    }
+Focus on stability, security, and reliability
 
-    footer {
-      text-align: center;
-      padding: 2rem;
-      color: var(--muted);
-      font-size: .85rem;
-    }
-  </style>
-</head>
+🌱 Currently Learning & Improving
 
-<body>
+Advanced networking concepts (CCNA level)
 
-<header>
-  <h1>🌐 Junior IT System Integrator</h1>
-  <p>
-    Focused on <strong>Networks & Servers</strong>.  
-    Infrastructure-first mindset with hands-on experience in system administration,
-    networking fundamentals, and automation.
-  </p>
-</header>
+Deeper Linux server internals
 
-<section>
-  <div class="grid">
+Infrastructure automation
 
-    <div class="card">
-      <h3>🖥️ Servers & Systems</h3>
-      <ul>
-        <li>Linux & Windows Server administration</li>
-        <li>User, group & permission management</li>
-        <li>Service configuration & troubleshooting</li>
-        <li>Virtualization & infrastructure basics</li>
-        <li>Monitoring, backups & system reliability</li>
-      </ul>
-    </div>
+Secure and resilient system design
 
-    <div class="card">
-      <h3>🌐 Networking (Core Profile)</h3>
-      <ul>
-        <li>TCP/IP, OSI model, DNS, DHCP</li>
-        <li>Switching & routing (VLANs, subnetting)</li>
-        <li>Static & dynamic routing basics</li>
-        <li>Network troubleshooting</li>
-        <li>CCNA-oriented knowledge</li>
-      </ul>
-    </div>
+🎯 Profile Summary
 
-    <div class="card">
-      <h3>🔧 Automation & Scripting</h3>
-      <ul>
-        <li>JavaScript (Node.js) for automation</li>
-        <li>API interaction & system tooling</li>
-        <li>Git for version control</li>
-        <li>Infrastructure support scripts</li>
-      </ul>
-    </div>
+Core profile: Networks & Servers
 
-    <div class="card">
-      <h3>🧠 Mindset</h3>
-      <ul>
-        <li>Infrastructure-first thinking</li>
-        <li>Hands-on problem solving</li>
-        <li>Learning by building & fixing systems</li>
-        <li>Focus on stability & security</li>
-      </ul>
-    </div>
+Role: Junior IT System Integrator
 
-  </div>
-</section>
+Development: Supportive skill (automation & tooling)
 
-<section>
-  <h2 style="text-align:center;color:var(--accent)">💻 Tech Stack</h2>
-  <div class="stack">
-    <span class="badge">Linux</span>
-    <span class="badge">Windows Server</span>
-    <span class="badge">Networking</span>
-    <span class="badge">CCNA</span>
-    <span class="badge">JavaScript</span>
-    <span class="badge">Node.js</span>
-    <span class="badge">PowerShell</span>
-    <span class="badge">Git</span>
-    <span class="badge">Docker (basic)</span>
-    <span class="badge">Virtualization</span>
-  </div>
-</section>
-
-<footer>
-  © 2026 · IT System Integration · Networks & Servers
-</footer>
-
-</body>
-</html>
+Goal: System / Network Engineer
