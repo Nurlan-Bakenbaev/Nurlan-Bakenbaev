@@ -1,100 +1,186 @@
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>IT System Integrator | Networks & Servers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --accent: #58a6ff;
+      --text: #c9d1d9;
+      --muted: #8b949e;
+    }
 
-💫 About Me:
-<br>🌐 Hallo there! I'm a Junior IT System Integrator with a strong focus on Networks & Servers
-<br><br>
-My core interest and primary skill set are centered around IT infrastructure — designing, building, and maintaining reliable networks and server environments. I enjoy working close to the system level, understanding how services communicate, how networks are structured, and how infrastructure can be made stable, secure, and scalable.
+    * {
+      box-sizing: border-box;
+      font-family: "Segoe UI", system-ui, sans-serif;
+    }
 
-<br><br>
-🖥️ Servers & Systems (Main Focus)
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
 
-Linux & Windows Server administration
+    header {
+      text-align: center;
+      padding: 4rem 1rem;
+    }
 
-User, group, and permission management
+    header h1 {
+      font-size: 2.2rem;
+      margin-bottom: .5rem;
+    }
 
-Service configuration and troubleshooting
+    header p {
+      color: var(--muted);
+      max-width: 700px;
+      margin: auto;
+    }
 
-Virtualization and basic infrastructure concepts
+    section {
+      max-width: 1100px;
+      margin: auto;
+      padding: 3rem 1rem;
+    }
 
-Monitoring, backups, and system reliability
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+    }
 
-<br><br>
-🌐 Networking (Core Profile)
+    .card {
+      background: var(--card);
+      padding: 2rem;
+      border-radius: 14px;
+      transition: transform .3s ease, box-shadow .3s ease;
+    }
 
-Strong fundamentals in TCP/IP, OSI model, DNS, DHCP
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 10px 30px rgba(0,0,0,.4);
+    }
 
-Switching & routing basics (VLANs, subnetting, static & dynamic routing)
+    .card h3 {
+      color: var(--accent);
+      margin-top: 0;
+    }
 
-Network troubleshooting and analysis
+    ul {
+      padding-left: 1.2rem;
+    }
 
-CCNA-oriented knowledge and practice
+    li {
+      margin-bottom: .4rem;
+    }
 
-Understanding of enterprise network structures
+    .stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .6rem;
+      justify-content: center;
+    }
 
-<br><br>
-🔧 Automation & Scripting
-To support and automate infrastructure tasks, I use programming as a tool, not as the main goal:
+    .badge {
+      background: #21262d;
+      border: 1px solid #30363d;
+      padding: .4rem .7rem;
+      border-radius: 8px;
+      font-size: .85rem;
+    }
 
-JavaScript (Node.js) for scripting and automation
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--muted);
+      font-size: .85rem;
+    }
+  </style>
+</head>
 
-Working with APIs and system-related tooling
+<body>
 
-Git for version control and configuration tracking
+<header>
+  <h1>🌐 Junior IT System Integrator</h1>
+  <p>
+    Focused on <strong>Networks & Servers</strong>.  
+    Infrastructure-first mindset with hands-on experience in system administration,
+    networking fundamentals, and automation.
+  </p>
+</header>
 
-<br><br>
-🧠 Mindset
+<section>
+  <div class="grid">
 
-Infrastructure-first thinking
+    <div class="card">
+      <h3>🖥️ Servers & Systems</h3>
+      <ul>
+        <li>Linux & Windows Server administration</li>
+        <li>User, group & permission management</li>
+        <li>Service configuration & troubleshooting</li>
+        <li>Virtualization & infrastructure basics</li>
+        <li>Monitoring, backups & system reliability</li>
+      </ul>
+    </div>
 
-Hands-on problem solving
+    <div class="card">
+      <h3>🌐 Networking (Core Profile)</h3>
+      <ul>
+        <li>TCP/IP, OSI model, DNS, DHCP</li>
+        <li>Switching & routing (VLANs, subnetting)</li>
+        <li>Static & dynamic routing basics</li>
+        <li>Network troubleshooting</li>
+        <li>CCNA-oriented knowledge</li>
+      </ul>
+    </div>
 
-Learning by building, breaking, and fixing systems
+    <div class="card">
+      <h3>🔧 Automation & Scripting</h3>
+      <ul>
+        <li>JavaScript (Node.js) for automation</li>
+        <li>API interaction & system tooling</li>
+        <li>Git for version control</li>
+        <li>Infrastructure support scripts</li>
+      </ul>
+    </div>
 
-Continuous improvement in networking and system integration
+    <div class="card">
+      <h3>🧠 Mindset</h3>
+      <ul>
+        <li>Infrastructure-first thinking</li>
+        <li>Hands-on problem solving</li>
+        <li>Learning by building & fixing systems</li>
+        <li>Focus on stability & security</li>
+      </ul>
+    </div>
 
-<br><br>
-🌱 Currently Learning & Improving
+  </div>
+</section>
 
-Advanced networking concepts (CCNA level)
+<section>
+  <h2 style="text-align:center;color:var(--accent)">💻 Tech Stack</h2>
+  <div class="stack">
+    <span class="badge">Linux</span>
+    <span class="badge">Windows Server</span>
+    <span class="badge">Networking</span>
+    <span class="badge">CCNA</span>
+    <span class="badge">JavaScript</span>
+    <span class="badge">Node.js</span>
+    <span class="badge">PowerShell</span>
+    <span class="badge">Git</span>
+    <span class="badge">Docker (basic)</span>
+    <span class="badge">Virtualization</span>
+  </div>
+</section>
 
-Deeper Linux server internals
+<footer>
+  © 2026 · IT System Integration · Networks & Servers
+</footer>
 
-Infrastructure automation and scripting
-
-Secure and stable system design
-<div align="center">
-	<table>
-		<tr>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="25" src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596" alt="Supabase" title="Supabase"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="Chakra UI" title="Chakra UI"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="Ant Design" title="Ant Design"/></code></td>
-			<td><code><img width="25" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
-			<td><code><img width="25" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="25" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-		</tr>
-	</table>
-</div>
+</body>
+</html>
