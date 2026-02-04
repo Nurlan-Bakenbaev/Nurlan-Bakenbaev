@@ -1,9 +1,5 @@
 # 🌐 IT System Integrator  
 ### Networks • Servers • Infrastructure
-
-> **Infrastructure-first mindset**  
-> Focused on **networking and server environments**, with scripting and development as supporting tools.
-
 ---
 
 ## 💫 About Me
