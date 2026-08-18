@@ -1,10 +1,9 @@
-
 <div align="center">
 
   # Hi there, I'm Nurlan 👋
   ### 🌐 Hybrid IT System Integrator & Infrastructure Specialist
 
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=200&section=header&text=Building%20&%20Securing%20IT%20Infrastructure&fontSize=38&animation=fadeIn&fontColor=ffffff)
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=200&section=header&text=Architecting%20%26%20Engineering%20IT%20Infrastructure&fontSize=34&animation=fadeIn&fontColor=ffffff)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D6&center=true&vCenter=true&width=500&lines=Networks+%E2%80%A2+Servers+%E2%80%A2+Hybrid+Cloud;Windows+Server+%26+Active+Directory;Cisco+Networking+%26+Routing;PowerShell+%26+C%23+Automation)](https://git.io/typing-svg)
 
@@ -14,12 +13,12 @@
 
 ## 💫 About Me
 
-I am an **IT System Integrator / Fachinformatiker für Systemintegration** with a strong passion for **hybrid infrastructure, modern Active Directory environments, and networking**. My focus lies in designing, deploying, and maintaining **stable, secure, and resilient systems** under real-world conditions.
+I am an **IT System Integrator / Fachinformatiker für Systemintegration** specializing in **hybrid infrastructure engineering, Active Directory environments, and enterprise networking**. My focus lies in designing, provisioning, and maintaining **stable, secure, and resilient systems** under real-world conditions.
 
-- 🏢 Working extensively with **Windows Server, Active Directory, and Hybrid Systems**.
-- 🛠️ Currently expanding into **Microsoft AZ-800** (Administering Windows Server Hybrid Core Infrastructure) and **AZ-140** (Azure Virtual Desktop).
-- 💻 Scripting and automating administrative tasks using **PowerShell** and building tools with **C#**.
-- ⚙️ Infrastructure-first mindset: *If it's not documented, backed up, and redundant, it's not production-ready.*
+- 🏢 Engineering solutions with **Windows Server, Active Directory, and Hybrid Environments**.
+- 🛠️ Deepening expertise in **Microsoft AZ-800** (Administering Windows Server Hybrid Core Infrastructure) and **AZ-140** (Azure Virtual Desktop).
+- 💻 Automating administrative workflows using **PowerShell** and engineering tools with **C#**.
+- ⚙️ System Reliability Principle: *If it's not documented, backed up, and redundant, it's not production-ready.*
 
 ---
 
@@ -33,8 +32,8 @@ I am an **IT System Integrator / Fachinformatiker für Systemintegration** with 
         <li><b>Windows Server & AD:</b> GPO, WSUS, Active Directory Domain Services, DNS, DHCP</li>
         <li><b>Hybrid Infrastructure:</b> Microsoft AZ-800 Core Hybrid administration, Azure AD / Entra ID</li>
         <li><b>Virtualization:</b> Hyper-V & VMware ESXi basics, AZ-140 (AVD) deployment principles</li>
-        <li><b>Linux Administration:</b> User management, permissions, core services, and bash tools</li>
-        <li><b>Backups & Monitoring:</b> System backup orchestration and service availability tracking</li>
+        <li><b>Linux Systems:</b> User management, permission architecture, service management</li>
+        <li><b>Resilience:</b> Backup orchestration and high-availability monitoring</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -42,9 +41,9 @@ I am an **IT System Integrator / Fachinformatiker für Systemintegration** with 
       <ul>
         <li><b>Cisco Systems:</b> CCNA-level routing, switching, VLAN segmentation, and trunking</li>
         <li><b>Network Protocols:</b> TCP/IP, OSI Model, Subnetting, Dynamic Routing (OSPF/EIGRP)</li>
-        <li><b>Service Infrastructure:</b> Enterprise DNS, Scope-based DHCP, Static/Dynamic NAT</li>
-        <li><b>Troubleshooting:</b> Wireshark packet analysis, route tracing, port diagnostics</li>
-        <li><b>Security:</b> Hardening baseline policies, privilege management, firewall rules</li>
+        <li><b>Core Infrastructure:</b> Enterprise DNS, Scope-based DHCP, Static/Dynamic NAT</li>
+        <li><b>Diagnostics:</b> Wireshark packet analysis, route tracing, port analysis</li>
+        <li><b>Security:</b> Policy hardening, least-privilege management, firewall configurations</li>
       </ul>
     </td>
   </tr>
@@ -65,7 +64,7 @@ I am an **IT System Integrator / Fachinformatiker für Systemintegration** with 
 ![AZ-800](https://img.shields.io/badge/Exam-AZ--800%20Hybrid-blue?style=for-the-badge&logo=microsoft)
 ![AZ-140](https://img.shields.io/badge/Exam-AZ--140%20AVD-blue?style=for-the-badge&logo=microsoft)
 
-### Scripting, Development & Version Control
+### Scripting, Engineering & Version Control
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,16 +73,4 @@ I am an **IT System Integrator / Fachinformatiker für Systemintegration** with 
 
 ---
 
-## 🌱 Active Growth & Certification Track
-
-
-```
-
-[+] Cisco CCNA (Routing & Switching Architecture)
-├── [+] Microsoft AZ-800: Administering Windows Server Hybrid Core Infrastructure
-├── [+] Microsoft AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop
-└── [+] C# Systems Programming & Infrastructure Automation
-
-```
-
----
+## 🌱 Certification & Skill Progression
