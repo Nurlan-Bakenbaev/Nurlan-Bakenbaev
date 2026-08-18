@@ -137,12 +137,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nurlan-Bakenbaev&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Nurlan-Bakenbaev&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
 
   <br><br>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nurlan-Bakenbaev&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="49%" />
 
 </div>
 
@@ -154,12 +154,3 @@
 </div>
 
 ```
-
----
-
-### 💡 Why This Looks Like a Webpage
-
-* **Header App Container:** Wraps your headline in a styled, dark-mode `#0d1117` box with subtle borders and status badges.
-* **HTML Tables as Responsive Columns:** Converts standard Markdown text into structured side-by-side dashboard cards.
-* **Section Jump Links:** The navigation badges at the top link directly to sections farther down the page (`#📍-about-system`, `#🛠️-tech-stack-modules`, etc.).
-* **Remember:** Replace `YOUR_GITHUB_USERNAME` in the bottom analytics section with your actual GitHub username!
