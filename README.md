@@ -1,4 +1,4 @@
-make a cool page for my github profile  # 🌐 IT System Integrator  
+ # 🌐 IT System Integrator  
 ### Networks • Servers • Infrastructure
 ---
 
