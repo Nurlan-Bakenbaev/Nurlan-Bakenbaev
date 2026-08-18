@@ -1,8 +1,4 @@
-Here is the **ultimate, all-in-one GitHub Profile README**. It consolidates every layer of your background into a high-energy, visually striking, multi-colored layout: **System Integration (Ausbildung), Windows Server & Active Directory, Linux, Cisco CCNA networking, Full-Stack Dev (ReactJS, Node.js, C# .NET, JS), AI engineering & automation, and your 3 languages (EN, DE, RU)**.
 
----
-
-```markdown
 <div align="center">
 
   <!-- Dynamic Typing Header -->
