@@ -1,3 +1,4 @@
+
 <div align="center">
 
   # Hi there, I'm Nurlan 👋
@@ -39,3 +40,38 @@
 [SYS_OK]   Identity: Nurlan Bakenbaev | IT System Integrator / Fachinformatiker Systemintegration
 [SYS_OK]   Focus: Hybrid Infrastructure Engineering, Active Directory Architecture, Enterprise Networking
 [SYS_OK]   Status: Engineering scalable, resilient enterprise environments under production conditions.
+
+```
+
+* 🏢 **Hybrid Infrastructure & Enterprise Systems:** Specializing in **Windows Server, Active Directory, GPOs, and Hybrid Cloud Integration**.
+* 🛠️ **Cloud & Virtualization Focus:** Advanced implementation of **Microsoft AZ-800** (Windows Server Hybrid Core) and **AZ-140** (Azure Virtual Desktop).
+* ⚡ **Automation & Scripting:** Streamlining system administration with **PowerShell** and engineering standalone utilities in **C#**.
+* ⚙️ **Core Philosophy:** *If it is not documented, monitored, backed up, and redundant — it is not production-ready.*
+
+---
+
+## 🛠️ Core Capabilities & Focus Areas
+
+---
+
+## 💻 Tech Stack & Tooling
+
+### 🖥️ Infrastructure & Operating Systems
+
+### 🌐 Networking, Cloud & Certifications
+
+### ⚡ Engineering, Scripting & Control
+
+---
+
+## 📈 Active Skill Progression & Track
+
+```
+┌── [ TRACK 01 ] Cisco CCNA (Routing & Switching Enterprise Architecture)
+├── [ TRACK 02 ] Microsoft AZ-800: Administering Windows Server Hybrid Core
+├── [ TRACK 03 ] Microsoft AZ-140: Configuring & Operating Azure Virtual Desktop
+└── [ TRACK 04 ] Systems Automation with PowerShell & C# Infrastructure Tooling
+
+```
+
+---
