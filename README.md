@@ -1,76 +1,41 @@
 <div align="center">
 
   # Hi there, I'm Nurlan 👋
-  ### 🌐 Hybrid IT System Integrator & Infrastructure Specialist
+  ### 🌐 Hybrid IT System Integrator & Infrastructure Engineer
 
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=200&section=header&text=Architecting%20%26%20Engineering%20IT%20Infrastructure&fontSize=34&animation=fadeIn&fontColor=ffffff)
+  <!-- Dynamic Header Banner -->
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=220&section=header&text=Architecting%20%26%20Engineering%20IT%20Infrastructure&fontSize=32&animation=fadeIn&fontColor=ffffff&desc=Hybrid%20Cloud%20%E2%80%A2%20Active%20Directory%20%E2%80%A2%20Enterprise%20Networking&descSize=16&descAlignY=68)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D6&center=true&vCenter=true&width=500&lines=Networks+%E2%80%A2+Servers+%E2%80%A2+Hybrid+Cloud;Windows+Server+%26+Active+Directory;Cisco+Networking+%26+Routing;PowerShell+%26+C%23+Automation)](https://git.io/typing-svg)
+  <!-- Live Typing Terminal Animation -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D6&center=true&vCenter=true&width=550&lines=System+Engineering+%26+Infrastructure+Design;Windows+Server+%26+Hybrid+Active+Directory;Cisco+CCNA-Level+Routing+%26+Switching;PowerShell+Automation+%26+C%23+Development;Deploying+AZ-800+%26+AZ-140+Solutions" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <!-- Animated Interactive Badges (Simulating UI Control Buttons) -->
+  <a href="#-core-capabilities--focus-areas">
+    <img src="https://img.shields.io/badge/System_Status-Active%20%26%20Deploying-00C853?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status">
+  </a>
+  <a href="#-tech-stack--tooling">
+    <img src="https://img.shields.io/badge/Infrastructure-Hybrid_Enterprise-0078D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Infrastructure">
+  </a>
+  <a href="#-github-telemetry">
+    <img src="https://img.shields.io/badge/Console-Telemetry_Live-FF6F00?style=for-the-badge&logo=grafana&logoColor=white" alt="Telemetry">
+  </a>
 
 </div>
 
 ---
 
-## 💫 About Me
+<div align="center">
 
-I am an **IT System Integrator / Fachinformatiker für Systemintegration** specializing in **hybrid infrastructure engineering, Active Directory environments, and enterprise networking**. My focus lies in designing, provisioning, and maintaining **stable, secure, and resilient systems** under real-world conditions.
+## 💫 System Overview & Profile Log
 
-- 🏢 Engineering solutions with **Windows Server, Active Directory, and Hybrid Environments**.
-- 🛠️ Deepening expertise in **Microsoft AZ-800** (Administering Windows Server Hybrid Core Infrastructure) and **AZ-140** (Azure Virtual Desktop).
-- 💻 Automating administrative workflows using **PowerShell** and engineering tools with **C#**.
-- ⚙️ System Reliability Principle: *If it's not documented, backed up, and redundant, it's not production-ready.*
+</div>
 
----
-
-## 🛠️ Core Capabilities & Focus Areas
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ Systems & Hybrid Cloud</h3>
-      <ul>
-        <li><b>Windows Server & AD:</b> GPO, WSUS, Active Directory Domain Services, DNS, DHCP</li>
-        <li><b>Hybrid Infrastructure:</b> Microsoft AZ-800 Core Hybrid administration, Azure AD / Entra ID</li>
-        <li><b>Virtualization:</b> Hyper-V & VMware ESXi basics, AZ-140 (AVD) deployment principles</li>
-        <li><b>Linux Systems:</b> User management, permission architecture, service management</li>
-        <li><b>Resilience:</b> Backup orchestration and high-availability monitoring</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Networking & Security</h3>
-      <ul>
-        <li><b>Cisco Systems:</b> CCNA-level routing, switching, VLAN segmentation, and trunking</li>
-        <li><b>Network Protocols:</b> TCP/IP, OSI Model, Subnetting, Dynamic Routing (OSPF/EIGRP)</li>
-        <li><b>Core Infrastructure:</b> Enterprise DNS, Scope-based DHCP, Static/Dynamic NAT</li>
-        <li><b>Diagnostics:</b> Wireshark packet analysis, route tracing, port analysis</li>
-        <li><b>Security:</b> Policy hardening, least-privilege management, firewall configurations</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💻 Tech Stack & Badges
-
-### Operating Systems & Virtualization
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Networking & Cloud
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AZ-800](https://img.shields.io/badge/Exam-AZ--800%20Hybrid-blue?style=for-the-badge&logo=microsoft)
-![AZ-140](https://img.shields.io/badge/Exam-AZ--140%20AVD-blue?style=for-the-badge&logo=microsoft)
-
-### Scripting, Engineering & Version Control
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🌱 Certification & Skill Progression
+```console
+[SYS_INIT] Loading Engineer Profile...
+[SYS_OK]   Identity: Nurlan Bakenbaev | IT System Integrator / Fachinformatiker Systemintegration
+[SYS_OK]   Focus: Hybrid Infrastructure Engineering, Active Directory Architecture, Enterprise Networking
+[SYS_OK]   Status: Engineering scalable, resilient enterprise environments under production conditions.
