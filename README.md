@@ -12,7 +12,7 @@
 
   <!-- APP TITLE / HERO -->
   <h1 align="center" style="color: #58a6ff; font-family: 'Fira Code', monospace; border-bottom: none;">
-    ⚡ NURLAN // SYSTEM INTEGRATOR & FULL-STACK ENGINEER
+    ⚡  SYSTEM INTEGRATOR & FULL-STACK 
   </h1>
 
   <!-- TYPING BANNER -->
