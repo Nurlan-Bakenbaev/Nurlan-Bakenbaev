@@ -30,15 +30,6 @@
 ## 💫 System Overview & Profile Log
 
 </div>
-
-```console
-[SYS_INIT] Loading Engineer Profile...
-[SYS_OK]   Identity: Nurlan Bakenbaev | IT System Integrator / Fachinformatiker Systemintegration
-[SYS_OK]   Focus: Hybrid Infrastructure Engineering, Active Directory Architecture, Enterprise Networking
-[SYS_OK]   Status: Engineering scalable, resilient enterprise environments under production conditions.
-
-```
-
 * 🏢 **Hybrid Infrastructure & Enterprise Systems:** Specializing in **Windows Server, Active Directory, GPOs, and Hybrid Cloud Integration**.
 * 🛠️ **Cloud & Virtualization Focus:** Advanced implementation of **Microsoft AZ-800** (Windows Server Hybrid Core) and **AZ-140** (Azure Virtual Desktop).
 * ⚡ **Automation & Scripting:** Streamlining system administration with **PowerShell** and engineering standalone utilities in **C#**.
