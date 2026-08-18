@@ -4,10 +4,6 @@
   # Hi there, I'm Nurlan 👋
   ### 🌐 Hybrid IT System Integrator & Infrastructure Engineer
 
-  <!-- Dynamic Header Banner -->
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D6&height=220&section=header&text=Architecting%20%26%20Engineering%20IT%20Infrastructure&fontSize=32&animation=fadeIn&fontColor=ffffff&desc=Hybrid%20Cloud%20%E2%80%A2%20Active%20Directory%20%E2%80%A2%20Enterprise%20Networking&descSize=16&descAlignY=68)
-
-  <!-- Live Typing Terminal Animation -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D6&center=true&vCenter=true&width=550&lines=System+Engineering+%26+Infrastructure+Design;Windows+Server+%26+Hybrid+Active+Directory;Cisco+CCNA-Level+Routing+%26+Switching;PowerShell+Automation+%26+C%23+Development;Deploying+AZ-800+%26+AZ-140+Solutions" alt="Typing SVG" />
   </a>
