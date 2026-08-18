@@ -105,8 +105,8 @@ I specialize in **systems administration, network engineering, full-stack softwa
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurlan-Bakenbaev&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurlan-Bakenbaev&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
 
   <br><br>
 
