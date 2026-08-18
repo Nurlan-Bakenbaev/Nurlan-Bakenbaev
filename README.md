@@ -30,6 +30,7 @@
 ## 💫 System Overview & Profile Log
 
 </div>
+
 * 🏢 **Hybrid Infrastructure & Enterprise Systems:** Specializing in **Windows Server, Active Directory, GPOs, and Hybrid Cloud Integration**.
 * 🛠️ **Cloud & Virtualization Focus:** Advanced implementation of **Microsoft AZ-800** (Windows Server Hybrid Core) and **AZ-140** (Azure Virtual Desktop).
 * ⚡ **Automation & Scripting:** Streamlining system administration with **PowerShell** and engineering standalone utilities in **C#**.
