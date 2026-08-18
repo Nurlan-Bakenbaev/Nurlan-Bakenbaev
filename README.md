@@ -1,13 +1,13 @@
-
+```markdown
 <div align="center">
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=IT+System+Integrator+%E2%80%A2+Infrastructure+Engineer;Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+Linux;Cisco+CCNA+%E2%80%A2+Enterprise+Networks+%E2%80%A2+Routing;Full-Stack+Developer+%E2%80%A2+ReactJS+%E2%80%A2+C%23+.NET+%E2%80%A2+Node.js;AI+Engineering+%E2%80%A2+PowerShell+Automation+%E2%80%A2+Cloud;Multilingual%3A+English+%E2%80%A2+Deutsch+%E2%80%A2+%D0%A0%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=IT+System+Integrator+%E2%80%A2+Infrastructure+Engineer;Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+Linux;Cisco+CCNA+%E2%80%A2+Enterprise+Networks+%E2%80%A2+Routing;Full-Stack+Developer+%E2%80%A2+ReactJS+%E2%80%A2+C%23+.NET+%E2%80%A2+Node.js;AI-Powered+Automation+%E2%80%A2+PowerShell+%E2%80%A2+Cloud" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>🌐 Enterprise Infrastructure Specialist & Full-Stack / AI Engineer</b>
+    <b>🌐 Enterprise Infrastructure Specialist & Full-Stack Developer</b>
   </p>
 
   <!-- High-Impact Color Badges -->
@@ -16,8 +16,7 @@
     <img src="https://img.shields.io/badge/Cisco-CCNA_Certified-13B5EA?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft-Azure_Certified-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Stack-React_%7C_C%23_%7C_Node.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/AI-LLM_%26_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Languages-DE_%7C_EN_%7C_RU-00C853?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Automation-AI--Assisted_Workflows-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   </p>
 
 </div>
@@ -28,9 +27,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8589-111578284bfa.gif" width="100%">
 </div>
 
-### ⚡ Architectural Blueprint
+### ⚡ Technical Profile
 
-I specialize in **low-level systems administration, enterprise network architecture, modern full-stack development, and AI implementation**. My domain covers the complete lifecycle of tech stacks—from physical switching and routing to high-level frontend interfaces and automated workflows.
+I specialize in **systems administration, network engineering, full-stack software development, and AI-driven workflow automation**. I bridge the gap between underlying physical network infrastructure, enterprise identity management, modern web applications, and automated scripting pipelines.
 
 
 ```
@@ -38,9 +37,9 @@ I specialize in **low-level systems administration, enterprise network architect
 ┌─────────────────────────────────────────────────────────────────────────┐
 │ 🎨 FRONTEND & UI     │ ReactJS • JavaScript (ES6+) • HTML5/CSS3          │
 ├──────────────────────┼──────────────────────────────────────────────────┤
-│ ⚙️ BACKEND & AI API  │ C# .NET • Node.js • Express • LLM & AI Pipelines │
+│ ⚙️ BACKEND & APIS    │ C# .NET • Node.js • Express • RESTful Services   │
 ├──────────────────────┼──────────────────────────────────────────────────┤
-│ 🤖 AUTOMATION & IA C │ PowerShell Core • Bash • Git • Deployment Scripts│
+│ 🤖 AUTOMATION & AI   │ AI-Driven Tooling • PowerShell Core • Bash • Git │
 ├──────────────────────┼──────────────────────────────────────────────────┤
 │ 🖥️ COMPUTE & IDENTITY│ Windows Server • Active Directory • GPO • Linux │
 ├──────────────────────┼──────────────────────────────────────────────────┤
@@ -51,7 +50,7 @@ I specialize in **low-level systems administration, enterprise network architect
 
 ---
 
-### 🚀 Massive Tech Stack & Skills Grid
+### 🚀 Tech Stack & Core Competencies
 
 #### 🖥️ **Enterprise Systems & Cloud Infrastructure**
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows-server&logoColor=white)
@@ -71,16 +70,16 @@ I specialize in **low-level systems administration, enterprise network architect
 ![Wireshark](https://img.shields.io/badge/Wireshark_Diagnostics-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Routing](https://img.shields.io/badge/Static_%26_Dynamic_Routing-0052CC?style=for-the-badge)
 
-#### 💻 **Full-Stack Development & AI Engineering**
+#### 💻 **Full-Stack Development & Software Engineering**
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![AI Integrations](https://img.shields.io/badge/AI_%26_LLM_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API_Design-009688?style=for-the-badge)
 
-#### ⚙️ **Automation, Tooling & Workflow**
+#### 🤖 **Automation, AI Tools & Workflows**
+![AI Automation](https://img.shields.io/badge/AI--Powered_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell_Core-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -90,24 +89,11 @@ I specialize in **low-level systems administration, enterprise network architect
 
 ### 🎯 Capabilities Matrix
 
-| 🖥️ Systems & Enterprise Identity | 🌐 Cisco & Network Engineering | 💻 Full-Stack Dev & AI Solutions |
+| 🖥️ Systems & Enterprise Identity | 🌐 Cisco & Network Engineering | 💻 Full-Stack Dev & AI Automation |
 | :--- | :--- | :--- |
 | **Windows Server Administration** <br> AD DS, GPO policies, Kerberos authentication, Entra ID | **Cisco Switching & Routing** <br> IOS CLI, VLAN 802.1Q trunking, inter-VLAN routing | **Modern Frontend** <br> ReactJS component architecture, UI state hooks, clean responsive design |
 | **System Rollouts & Migrations** <br> Scripted user profiles, network drive migrations, OS imaging | **Packet Diagnostics** <br> Deep packet analysis via Wireshark, ICMP, TCP state profiling | **Backend & REST APIs** <br> Node.js & C# .NET Web APIs, database integrations |
-| **Update Management** <br> WSUS policy rings, driver deployments, security hardening | **Core Network Services** <br> Enterprise DNS trees, DHCP failover clusters, NAT, IPsec VPNs | **AI Integration & Automation** <br> PowerShell automation, LLM API pipelines, custom tooling |
-
----
-
-### 🌍 Multilingual Communication
-
-
-```
-
-🇩🇪 Deutsch (German)       ██████████████████████ 95%  - Professional / Technical
-🇬🇧 English                ██████████████████████ 95%  - Professional / Technical
-🇷🇺 Русский (Russian)      ██████████████████████ 100% - Native / Bilingual
-
-```
+| **Update Management** <br> WSUS policy rings, driver deployments, security hardening | **Core Network Services** <br> Enterprise DNS trees, DHCP failover clusters, NAT, IPsec VPNs | **AI-Assisted Automation** <br> PowerShell scripts, workflow optimization, task automation |
 
 ---
 
@@ -115,7 +101,7 @@ I specialize in **low-level systems administration, enterprise network architect
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8589-111578284bfa.gif" width="100%">
 </div>
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
 
@@ -131,7 +117,7 @@ I specialize in **low-level systems administration, enterprise network architect
 ---
 
 <div align="center">
-  <sub>⚡ Engineered for high availability, deterministic network routing, modern full-stack dev, and AI workflows.</sub>
+  <sub>⚡ Engineered for high availability, deterministic network routing, full-stack application development, and AI-assisted automation.</sub>
 </div>
 
 ```
