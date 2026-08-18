@@ -1,65 +1,55 @@
+make a cool page for my github profile  # 🌐 IT System Integrator  
+### Networks • Servers • Infrastructure
+---
 
-<div align="center">
+## 💫 About Me
 
-  # Hi there, I'm Nurlan 👋
-  ### 🌐 Hybrid IT System Integrator & Infrastructure Engineer
+🌐 **Junior IT System Integrator** with a strong focus on **Networks & Servers**.  
+My primary interest lies in **IT infrastructure** — designing, building, and maintaining **stable, secure, and scalable systems**.
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D6&center=true&vCenter=true&width=550&lines=System+Engineering+%26+Infrastructure+Design;Windows+Server+%26+Hybrid+Active+Directory;Cisco+CCNA-Level+Routing+%26+Switching;PowerShell+Automation+%26+C%23+Development;Deploying+AZ-800+%26+AZ-140+Solutions" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <!-- Animated Interactive Badges (Simulating UI Control Buttons) -->
-  <a href="#-core-capabilities--focus-areas">
-    <img src="https://img.shields.io/badge/System_Status-Active%20%26%20Deploying-00C853?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status">
-  </a>
-  <a href="#-tech-stack--tooling">
-    <img src="https://img.shields.io/badge/Infrastructure-Hybrid_Enterprise-0078D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Infrastructure">
-  </a>
-  <a href="#-github-telemetry">
-    <img src="https://img.shields.io/badge/Console-Telemetry_Live-FF6F00?style=for-the-badge&logo=grafana&logoColor=white" alt="Telemetry">
-  </a>
-
-</div>
+I enjoy working close to the system level:  
+understanding how services communicate, how networks are structured, and how infrastructure behaves under **real-world conditions**.
 
 ---
 
-<div align="center">
+## 🧩 Core Skills (Infrastructure Focus)
 
-## 💫 System Overview & Profile Log
-
-</div>
-
-* 🏢 **Hybrid Infrastructure & Enterprise Systems:** Specializing in **Windows Server, Active Directory, GPOs, and Hybrid Cloud Integration**.
-* 🛠️ **Cloud & Virtualization Focus:** Advanced implementation of **Microsoft AZ-800** (Windows Server Hybrid Core) and **AZ-140** (Azure Virtual Desktop).
-* ⚡ **Automation & Scripting:** Streamlining system administration with **PowerShell** and engineering standalone utilities in **C#**.
-* ⚙️ **Core Philosophy:** *If it is not documented, monitored, backed up, and redundant — it is not production-ready.*
+| 🖥️ Servers & Systems | 🌐 Networking |
+|---------------------|---------------|
+| Linux & Windows Server administration  <br> User, group & permission management  <br> Service configuration & troubleshooting  <br> Virtualization basics  <br> Monitoring & backups | TCP/IP & OSI model  <br> DNS, DHCP  <br> VLANs & subnetting  <br> Static & dynamic routing  <br> Network troubleshooting  <br> CCNA-oriented knowledge |
 
 ---
 
-## 🛠️ Core Capabilities & Focus Areas
+## 🧠 Mindset
+
+- Infrastructure-first thinking  
+- Hands-on problem solving  
+- Learning by building, breaking, and fixing systems  
+- Focus on **stability, security, and reliability**
 
 ---
 
-## 💻 Tech Stack & Tooling
+## 🌱 Currently Learning & Improving
 
-### 🖥️ Infrastructure & Operating Systems
+- Advanced networking concepts (**CCNA level**)  
+- Deeper Linux server internals  
+- Infrastructure automation  
+- Secure and resilient system design  
 
-### 🌐 Networking, Cloud & Certifications
+---
 
-### ⚡ Engineering, Scripting & Control
+## 💻 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1f6feb?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/CCNA-Level-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 📈 Active Skill Progression & Track
 
-```
-┌── [ TRACK 01 ] Cisco CCNA (Routing & Switching Enterprise Architecture)
-├── [ TRACK 02 ] Microsoft AZ-800: Administering Windows Server Hybrid Core
-├── [ TRACK 03 ] Microsoft AZ-140: Configuring & Operating Azure Virtual Desktop
-└── [ TRACK 04 ] Systems Automation with PowerShell & C# Infrastructure Tooling
-
-```
-
----
+ photos images and so weiter I wanna it to be really cool looking  make it like a page ut add some new C# Cisco Windows Server, Microsoft Ad140 and AZ800 Hybrid system administrator etc 
