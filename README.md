@@ -137,16 +137,25 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nurlan-Bakenbaev&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Nurlan-Bakenbaev&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurlan-Bakenbaev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurlan-Bakenbaev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
   <br><br>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nurlan-Bakenbaev&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="49%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlan-Bakenbaev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="49%" />
 
 </div>
 
 <br>
+
+<!-- FOOTER CARD -->
+<div align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
+  <sub>⚡ Engineered for high availability, deterministic network routing, full-stack application development, and AI-assisted automation.</sub>
+</div>
 
 <!-- FOOTER CARD -->
 <div align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
