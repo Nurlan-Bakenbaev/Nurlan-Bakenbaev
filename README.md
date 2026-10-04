@@ -49,7 +49,3 @@ understanding how services communicate, how networks are structured, and how inf
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
----
-
-
- photos images and so weiter I wanna it to be really cool looking  make it like a page ut add some new C# Cisco Windows Server, Microsoft Ad140 and AZ800 Hybrid system administrator etc 
