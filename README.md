@@ -5,6 +5,10 @@
 
 **Junior IT System Integrator | Infrastructure-focused | Security-minded**
 
+<img src="./assets/cyber-terminal.svg" width="900" alt="Animated infrastructure and network security terminal" />
+
+
+</div>
 
 
 ---
