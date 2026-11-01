@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/cyber-terminal.svg" alt="System administration and cybersecurity animated terminal" width="900" />
+</div>
+
  # 🌐 IT System Integrator  
 ### Networks • Servers • Infrastructure
 ---
