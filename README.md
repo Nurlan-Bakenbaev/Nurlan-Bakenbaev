@@ -5,13 +5,7 @@
 
 **Junior IT System Integrator | Infrastructure-focused | Security-minded**
 
-<img src="./assets/cyber-terminal.svg" width="900" alt="Animated infrastructure and network security terminal" />
 
-![Systems](https://img.shields.io/badge/FOCUS-SYSTEMS_ADMINISTRATION-0d2233?style=flat-square&labelColor=07111f&color=00c8dc)
-![Network](https://img.shields.io/badge/FOCUS-NETWORK_ENGINEERING-0d2233?style=flat-square&labelColor=07111f&color=00c8dc)
-![Security](https://img.shields.io/badge/FOCUS-CYBERSECURITY-0d2233?style=flat-square&labelColor=07111f&color=21c9a4)
-
-</div>
 
 ---
 
