@@ -14,7 +14,7 @@
 <text x="28" y="260" fill="#43b5d1"># sysadmin / networking / cybersecurity</text>
 <text x="28" y="300" fill="#38e2b4">root@homelab</text><text x="140" y="300" fill="#d5e8ee">:~$</text>
 <rect x="169" y="287" width="10" height="16" fill="#38e2b4"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.4s" repeatCount="indefinite"/></rect>
-<text x="28" y="336" fill="#6b889b" font-size="11">DEMO VISUALIZATION // NOT LIVE INFRASTRUCTURE TELEMETRY</text></g>
+<text x="28" y="336" fill="#6b889b" font-size="11">SYSTEM ADMINISTRATION // NETWORK SECURITY // CYBERSECURITY</text></g>
 <rect x="432" y="67" width="438" height="245" rx="12" fill="#0d1c2c" stroke="#244e62"/>
 <g stroke="#28576b" fill="none" stroke-width="2">
 <path d="M539 133L646 191L760 130"/>
@@ -33,5 +33,5 @@
 </circle>
 <g fill="#d5f8fa" font-family="monospace" font-size="13" text-anchor="middle">
 <text x="539" y="138">DNS</text><text x="646" y="195">CORE</text><text x="760" y="135">FW</text><text x="542" y="265">SRV</text><text x="757" y="263">LOG</text></g>
-<text x="650" y="95" fill="#55e2cb" font-family="monospace" font-size="11" text-anchor="middle">NETWORK TOPOLOGY // DEMO</text>
+<text x="650" y="95" fill="#55e2cb" font-family="monospace" font-size="11" text-anchor="middle">NETWORK TOPOLOGY</text>
 </svg>
