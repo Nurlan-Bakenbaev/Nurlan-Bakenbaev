@@ -7,7 +7,6 @@
 
 <img src="./assets/cyber-terminal.svg" width="900" alt="Animated infrastructure and network security terminal" />
 
-<img src="./assets/technology-sphere.png" width="560" alt="Technology sphere with infrastructure, networking, and security tools" />
 
 </div>
 
