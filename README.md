@@ -7,6 +7,7 @@
 
 <img src="./assets/cyber-terminal.svg" width="900" alt="Animated infrastructure and network security terminal" />
 
+<img src="./assets/technology-sphere.png" width="560" alt="Technology sphere with infrastructure, networking, and security tools" />
 
 </div>
 
@@ -108,10 +109,6 @@ OBSERVE  ->  DIAGNOSE  ->  FIX  ->  VERIFY  ->  DOCUMENT
 ```
 
 I value **clear documentation, methodical troubleshooting, secure defaults, and reliable operations** over complexity for its own sake.
-
-## `repositories --explore`
-
-Explore my [GitHub repositories](https://github.com/Nurlan-Bakenbaev?tab=repositories) for code, technical exercises, and work in progress.
 
 ---
 
